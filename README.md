@@ -54,8 +54,8 @@ Scripts
 The following scripts are available in the package.json:
 
 Start the Development Server - 
-npm run dev
-This uses nodemon to restart the server on changes.
+npm run dev 
+(This uses nodemon to restart the server on changes)
 
 
 
